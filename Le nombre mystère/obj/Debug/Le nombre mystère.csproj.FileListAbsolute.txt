@@ -1,0 +1,6 @@
+c:\users\lemen\documents\visual studio 2015\Projects\Le nombre mystère\Le nombre mystère\bin\Debug\Le nombre mystère.exe.config
+c:\users\lemen\documents\visual studio 2015\Projects\Le nombre mystère\Le nombre mystère\bin\Debug\Le nombre mystère.exe
+c:\users\lemen\documents\visual studio 2015\Projects\Le nombre mystère\Le nombre mystère\bin\Debug\Le nombre mystère.pdb
+c:\users\lemen\documents\visual studio 2015\Projects\Le nombre mystère\Le nombre mystère\obj\Debug\Le nombre mystère.csprojResolveAssemblyReference.cache
+c:\users\lemen\documents\visual studio 2015\Projects\Le nombre mystère\Le nombre mystère\obj\Debug\Le nombre mystère.exe
+c:\users\lemen\documents\visual studio 2015\Projects\Le nombre mystère\Le nombre mystère\obj\Debug\Le nombre mystère.pdb
